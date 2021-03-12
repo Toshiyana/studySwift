@@ -4,7 +4,7 @@ import UIKit
 //num.round()
 //print(num) // output: 3
 
-// .round()で小数点以下を指定して四捨五入できるよう，extentionで拡張
+// .round()で小数点以下を指定して四捨五入できるよう，extensionで拡張
 
 extension Double {
     
