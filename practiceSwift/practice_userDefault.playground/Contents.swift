@@ -1,3 +1,5 @@
+//userDefault: localにdataを保存する時に利用（数kbiteのデータ，databaseではない）
+
 import UIKit
 
 //userDefaultを宣言
