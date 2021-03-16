@@ -38,6 +38,7 @@
 		99D319BC25FA29E00056D86B /* practice_static.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = practice_static.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		99D319D125FB58AE0056D86B /* practice_typeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = practice_typeCasting.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		99D319D325FB6BA70056D86B /* practice_anyType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = practice_anyType.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		99D31A4626009D080056D86B /* practice_userDefault.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = practice_userDefault.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +85,7 @@
 				99D319BC25FA29E00056D86B /* practice_static.playground */,
 				99D319D125FB58AE0056D86B /* practice_typeCasting.playground */,
 				99D319D325FB6BA70056D86B /* practice_anyType.playground */,
+				99D31A4626009D080056D86B /* practice_userDefault.playground */,
 			);
 			path = practiceSwift;
 			sourceTree = "<group>";
