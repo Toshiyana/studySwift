@@ -12,7 +12,8 @@ let pizzaInInches: Int = 12
 //* 必ずtypeを指定
 
 
-var pizzaOfSlices: Int {//このブロック内のコードをgetterと呼ぶ（このpropertyの値を得るために実行するコードなので）
+var pizzaOfSlices: Int {
+    //このブロック内のコードをgetterと呼ぶ（このpropertyの値を得るために実行するコードなので）
     
     //pizzaInInchesを変えると，pizzaOfSlicesが動的に変化
     return pizzaInInches - 4

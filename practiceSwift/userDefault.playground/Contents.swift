@@ -18,7 +18,7 @@ defaults.set(dictionary, forKey: "dictionaryKey")
 //dataの取り出し
 let volume = defaults.float(forKey: "Volume")
 let music = defaults.bool(forKey: "MusicOn")
-let player = defaults.object(forKey: "PlayerName") as! String//objectは返り値Any?
+let player = defaults.object(forKey: "PlayerName") as! String//objectは返り値Any?（stringの呼び出す関数はある）
 let appLastOpenedByUser = defaults.object(forKey: "AppLastOpenedByUser")
 let myArray = defaults.array(forKey: "MyArray") as! [Int]
 let myDictionary = defaults.dictionary(forKey: "dictionaryKey")

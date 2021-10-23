@@ -9,7 +9,7 @@ func printText(text: String) throws {
     //エラーを投げる可能性のある処理
     if text.isEmpty {
         //NSError:エラーが発生した箇所を特定するためのドメイン、エラーコード、任意の情報を指定してエラーを投げることが可能
-        throw NSError(domain: "error", code: -1, userInfo: userInfo: nil)
+        throw NSError(domain: "error", code: -1, userInfo: nil)
     }
     print(text)
 }

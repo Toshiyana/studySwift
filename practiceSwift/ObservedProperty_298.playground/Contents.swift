@@ -1,4 +1,4 @@
-//observed porpertyについて
+//observed propertyについて
 //値を計算する必要がなく（getter必要なし），値の変化だけに対応（setterのみ必要）する場合に利用
 
 //条件
